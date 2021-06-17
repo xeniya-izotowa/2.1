@@ -23,6 +23,7 @@
   <artifactId>sdk</artifactId>
   <version>1.0.0</version>
 </dependency>
+```
 
 *iOS (добавьте код в ваш Podfile):*
 
